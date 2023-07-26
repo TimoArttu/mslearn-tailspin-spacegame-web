@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/timop6591/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status%2FTimoArttu.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/timop6591/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=2&branchName=main)
 
 # Contributing
 
